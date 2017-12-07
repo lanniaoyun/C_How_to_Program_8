@@ -1,12 +1,12 @@
 # C_How_to_Program_8
 
-1.Preface
+# 1.Preface
 The referance book is "C How to Program Eighth Edition".
 
 Operating systems:Ubuntu 16.04
 Development tools:Notepad++
 
-2.Contents
+# 2.Contents
 Chapter 1: Introduction to Computers, the Internet, and the Web
 Chapter 2: Introduction to C Programming
 Chapter 3: Structured Program Development in C
