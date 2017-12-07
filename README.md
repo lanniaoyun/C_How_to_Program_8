@@ -1,5 +1,4 @@
 # C_How_to_Program_8
-------------------------
 
 1.Preface
 The referance book is "C How to Program Eighth Edition".
