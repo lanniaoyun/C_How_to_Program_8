@@ -7,9 +7,9 @@ Operating systems:Ubuntu 16.04
 Development tools:Notepad++
 
 # 2.Contents
-Chapter 1: Introduction to Computers, the Internet, and the Web
-Chapter 2: Introduction to C Programming
-Chapter 3: Structured Program Development in C
+Chapter 1: Introduction to Computers, the Internet, and the Web.
+Chapter 2: Introduction to C Programming.
+Chapter 3: Structured Program Development in C.
 Chapter 4: C Program Control
 Chapter 5: C Functions
 Chapter 6: C Arrays
