@@ -3,7 +3,8 @@
 # 1.Preface
 The referance book is "C How to Program Eighth Edition", Paul Deitel and Dr. Harvey M. Deitel.
 
-Operating systems:Ubuntu 16.04
+Operating systems:Ubuntu 16.04 
+
 Development tools:Notepad++ 7.5.2
 
 # 2.Contents
