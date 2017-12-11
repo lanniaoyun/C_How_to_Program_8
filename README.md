@@ -5,7 +5,7 @@ The referance book is "C How to Program Eighth Edition", Paul Deitel and Dr. Har
 
 Operating systems:Ubuntu 16.04 
 
-Development tools:Notepad++ 7.5.2
+Development tools:Notepad++ 1.2.0
 
 # 2.Contents
 Chapter 1: Introduction to Computers, the Internet, and the Web.
